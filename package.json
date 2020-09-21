@@ -45,7 +45,7 @@
   "devDependencies": {
     "yeoman-test": "*",
     "yeoman-assert": "*",
-    "eslint": "^3.1.1",
+    "eslint": "^7.9.0",
     "eslint-config-xo-space": "^0.15.0",
     "jshint": "^2.9.4",
     "uuid": "*",
